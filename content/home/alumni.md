@@ -25,14 +25,15 @@ design:
 
 
 ## Postdocs
-| Name                                                                            | Advisor | Years | Current Affiliation |
-|---------------------------------------------------------------------------------|-----------------------------|-------------|---------------------|
-| Merhdad Tashmasbi                                         | ? | 2020-2022 | Renaissance Technologies LLC |
-| [Léo Colisson](https://leo.colisson.me)                                         | Stacey Jeffery | 2018-2022 | Université Grenoble Alpes |
-| [Jonas Helsen](/author/jonas-helsen/)                                           | Michael Walter | 2019-2021 | CWI / QuSoft |
-| [Christian Majenz](https://www.christianmajenz.info/about-me.html)              | Christian Schaffner | 2019-2021 | DTU Compute |
-| [Alex Grilo](https://abgrilo.github.io/)                                               | Stacey Jeffery | 2018-2021 | CNRS at LIP6 |
-| [Yinan Li](https://www.yinanli.com/)                                            | Michael Walter, Ronald de Wolf | 2018-2020 | Nagoya University |
+| Name                                                                            | Advisor                        | Years     | Current Affiliation          |
+|---------------------------------------------------------------------------------|--------------------------------|-----------|------------------------------|
+| [Nikhil Mande](https://mande-nikhil.github.io)                                  | Ronald de Wolf                 | 2020-2022 | University of Liverpool      |
+| Merhdad Tashmasbi                                                               | ?                              | 2020-2022 | Renaissance Technologies LLC |
+| [Léo Colisson](https://leo.colisson.me)                                         | Stacey Jeffery                 | 2018-2022 | Université Grenoble Alpes    |
+| [Jonas Helsen](/author/jonas-helsen/)                                           | Michael Walter                 | 2019-2021 | CWI / QuSoft                 |
+| [Christian Majenz](https://www.christianmajenz.info/about-me.html)              | Christian Schaffner            | 2019-2021 | DTU Compute                  |
+| [Alex Grilo](https://abgrilo.github.io/)                                        | Stacey Jeffery                 | 2018-2021 | CNRS at LIP6                 |
+| [Yinan Li](https://www.yinanli.com/)                                            | Michael Walter, Ronald de Wolf | 2018-2020 | Nagoya University            |
 
 
 ## PhD Students
