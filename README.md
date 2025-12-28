@@ -32,7 +32,7 @@ $ hugo server
 
 6. Add new researchers by duplicating a similar subfolder in [/content/authors/](/content/authors) and adjusting the `.md` content and replacing the avatar picture.
 
-7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://theory-amsterdam.netlify.app/ and accessible under https://theory.amsterdam.
+7. When you are happy with the result, commit the changes to the main branch. The site is then automatically deployed to https://theory-amsterdam.netlify.app/ and accessible under https://theory.amsterdam.
 
 ### On Windows
 
