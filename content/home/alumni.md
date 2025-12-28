@@ -38,6 +38,7 @@ design:
 ## PhD Students
 | Name                                                                               | PhD Advisor(s)                               | Year of PhD | Current Affiliation |
 |------------------------------------------------------------------------------------|----------------------------------------------|-------------|---------------------|
+| [Subhasree Patro](https://subhasree-patro.github.io)                               | Harry Buhrman, Florian Speelman              | 2023        | Eindhoven University of Technology |
 | [Rene Allerstorfer](https://www.linkedin.com/in/rene-allerstorfer-b2171a86/)       | Harry Buhrman                                | 2024        | PsiQuantum |
 | [Philip Verduyn Lunel](https://www.linkedin.com/in/philip-verduyn-lunel-b81815a7/) | Harry Buhrman                                | 2024        | Sorbonne Université |
 | [Hans-Dieter Hiep](https://www.drheap.nl)                                          | Frank S. de Boer                             | 2024        | NLnet Foundation |
