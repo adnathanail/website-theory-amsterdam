@@ -28,7 +28,7 @@ design:
 |------------------------------------------------------------------------------------|--------------------------------|-----------|------------------------------|
 | [Yfke Dulek](https://www.linkedin.com/in/yfkedulek/)                               | ?                              | 2020-2022 | ASN Bank                     |
 | [Nikhil Mande](https://mande-nikhil.github.io)                                     | Ronald de Wolf                 | 2020-2022 | University of Liverpool      |
-| Merhdad Tashmasbi                                                                  | ?                              | 2020-2022 | Renaissance Technologies LLC |
+| Mehrdad Tahmasbi                                                                   | ?                              | 2020-2022 | Renaissance Technologies LLC |
 | [Léo Colisson](https://leo.colisson.me)                                            | Stacey Jeffery                 | 2018-2022 | Université Grenoble Alpes    |
 | [Jonas Helsen](/author/jonas-helsen/)                                              | Michael Walter                 | 2019-2021 | CWI / QuSoft                 |
 | [Christian Majenz](https://www.christianmajenz.info/about-me.html)                 | Christian Schaffner            | 2019-2021 | DTU Compute                  |
