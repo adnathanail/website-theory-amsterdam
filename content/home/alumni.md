@@ -26,6 +26,7 @@ design:
 ## Postdocs
 | Name                                                                               | Advisor                        | Years     | Current Affiliation          |
 |------------------------------------------------------------------------------------|--------------------------------|-----------|------------------------------|
+| [Yfke Dulek](https://www.linkedin.com/in/yfkedulek/)                               | ?                              | 2020-2022 | ASN Bank                     |
 | [Nikhil Mande](https://mande-nikhil.github.io)                                     | Ronald de Wolf                 | 2020-2022 | University of Liverpool      |
 | Merhdad Tashmasbi                                                                  | ?                              | 2020-2022 | Renaissance Technologies LLC |
 | [Léo Colisson](https://leo.colisson.me)                                            | Stacey Jeffery                 | 2018-2022 | Université Grenoble Alpes    |
@@ -50,7 +51,7 @@ design:
 | [Alexander Bentkamp](https://abentkamp.github.io/)                                 | Jasmin Blanchette, Wan Fokkink, Uwe Waldmann | 2021        |  Mathematical Institute of the Heinrich-Heine-Universität Düsseldorf |
 | [Zoi Terzopoulou](https://www.zoiterzopoulou.com/)                                 | Ulle Endriss                                 | 2021        | GATE, Saint-Etienne School of Economics |
 | [Joris Kattemölle](https://www.linkedin.com/in/joris-kattemolle-8604a594/)         | Jasper van Wezel, Kareljan Schoutens         | 2021        | University of Konstanz |
-| [Yfke Dulek](https://www.linkedin.com/in/yfkedulek/?originalSubdomain=nl)          | Christian Schaffner, Harry Buhrman           | 2020        | QuSoft |
+| [Yfke Dulek](https://www.linkedin.com/in/yfkedulek/)                               | Christian Schaffner, Harry Buhrman           | 2020        | QuSoft |
 | [Joran van Apeldoorn](https://www.linkedin.com/in/joran-van-apeldoorn-924483103)   | Ronald de Wolf                               | 2020        | Institute of Information Law, UvA |
 | [Koen Groenland](https://sites.google.com/view/koengroenland)                      | Harry Buhrman, Kareljan Schoutens            | 2020        | UvA and QuSoft |
 | [András Gilyén](http://gilyen.hu/)                                                 | Ronald de Wolf                               | 2019        | Alfréd Rényi Institute of Mathematics, Budapest|
