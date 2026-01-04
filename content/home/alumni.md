@@ -24,16 +24,17 @@ design:
 
 
 ## Postdocs
-| Name                                                                               | Advisor                           | Years     | Current Affiliation          |
-|------------------------------------------------------------------------------------|-----------------------------------|-----------|------------------------------|
-| [Yfke Dulek](https://www.linkedin.com/in/yfkedulek/)                               | Harry Buhrman,Christian Schaffner | 2020-2022 | ASN Bank                     |
-| [Nikhil Mande](https://mande-nikhil.github.io)                                     | Ronald de Wolf                    | 2020-2022 | University of Liverpool      |
+| Name                                                                               | Advisor                           | Years     | Current Affiliation |
+|------------------------------------------------------------------------------------|-----------------------------------|-----------|---------------------|
+| [Subhasree Patro](https://subhasree-patro.github.io)                               | Tanja Lange,Stacey Jeffery        | 2023-2024 | Eindhoven University of Technology |
+| [Yfke Dulek](https://www.linkedin.com/in/yfkedulek/)                               | Harry Buhrman,Christian Schaffner | 2020-2022 | ASN Bank |
+| [Nikhil Mande](https://mande-nikhil.github.io)                                     | Ronald de Wolf                    | 2020-2022 | University of Liverpool |
 | [Mehrdad Tahmasbi](https://www.linkedin.com/in/mehrdad-tahmasbi-131442180/)        | Christian Schaffner               | 2020-2022 | Renaissance Technologies LLC |
-| [Léo Colisson](https://leo.colisson.me)                                            | Stacey Jeffery                    | 2018-2022 | Université Grenoble Alpes    |
-| [Jonas Helsen](/author/jonas-helsen/)                                              | Michael Walter                    | 2019-2021 | CWI / QuSoft                 |
-| [Christian Majenz](https://www.christianmajenz.info/about-me.html)                 | Christian Schaffner               | 2019-2021 | DTU Compute                  |
-| [Alex Grilo](https://abgrilo.github.io/)                                           | Stacey Jeffery                    | 2018-2021 | CNRS at LIP6                 |
-| [Yinan Li](https://www.yinanli.com/)                                               | Michael Walter, Ronald de Wolf    | 2018-2020 | Wuhan University             |
+| [Léo Colisson](https://leo.colisson.me)                                            | Stacey Jeffery                    | 2018-2022 | Université Grenoble Alpes |
+| [Jonas Helsen](/author/jonas-helsen/)                                              | Michael Walter                    | 2019-2021 | CWI / QuSoft |
+| [Christian Majenz](https://www.christianmajenz.info/about-me.html)                 | Christian Schaffner               | 2019-2021 | DTU Compute |
+| [Alex Grilo](https://abgrilo.github.io/)                                           | Stacey Jeffery                    | 2018-2021 | CNRS at LIP6 |
+| [Yinan Li](https://www.yinanli.com/)                                               | Michael Walter, Ronald de Wolf    | 2018-2020 | Wuhan University |
 
 
 ## PhD Students
