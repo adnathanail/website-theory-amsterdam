@@ -31,7 +31,7 @@ superuser: false
 user_groups:
   - Permanent Members
   - CWI Computer Security
-  - Leiden Institue of Advanced Computer Science
+  - Leiden Institute of Advanced Computer Science
 highlight_name: false
 ---
 
