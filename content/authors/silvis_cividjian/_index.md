@@ -8,7 +8,7 @@ social:
     link: https://www.linkedin.com/in/natalia-silvis-cividjian-54922230/
   - icon: envelope
     icon_pack: fas
-    link: n.silvis-cividjian@vu.nl
+    link: mailto:n.silvis-cividjian@vu.nl
 
 organizations:
   - name: VU Theoretical Computer Science

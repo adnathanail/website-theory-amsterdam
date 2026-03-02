@@ -8,7 +8,7 @@ social:
     link: https://research.vu.nl/en/persons/sabine-oechsner/
   - icon: envelope
     icon_pack: fas
-    link: s.a.oechsner@vu.nl
+    link: mailto:s.a.oechsner@vu.nl
 
 organizations:
   - name: VU Theoretical Computer Science

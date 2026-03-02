@@ -8,7 +8,7 @@ social:
     link: https://www.francescverdugo.com
   - icon: envelope
     icon_pack: fas
-    link: f.verdugo.rojano@vu.nl
+    link: mailto:f.verdugo.rojano@vu.nl
 
 organizations:
   - name: VU Theoretical Computer Science

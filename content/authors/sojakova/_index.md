@@ -8,7 +8,7 @@ social:
     link: https://www.linkedin.com/in/kristina-sojakova-0a958824a/
   - icon: envelope
     icon_pack: fas
-    link: k.sojakova@vu.nl
+    link: mailto:k.sojakova@vu.nl
 interests:
   - programming languages
   - security and privacy

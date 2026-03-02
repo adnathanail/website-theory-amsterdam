@@ -8,7 +8,7 @@ social:
     link: https://research.vu.nl/en/persons/jasper-veltman/
   - icon: envelope
     icon_pack: fas
-    link: jasper.veltman@vu.nl
+    link: mailto:jasper.veltman@vu.nl
 
 organizations:
   - name: VU Theoretical Computer Science

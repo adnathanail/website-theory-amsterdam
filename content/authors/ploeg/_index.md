@@ -8,7 +8,7 @@ social:
     link: https://www.linkedin.com/in/atze-van-der-ploeg-4920b320/
   - icon: envelope
     icon_pack: fas
-    link: a.j.vander.ploeg@vu.nl
+    link: mailto:a.j.vander.ploeg@vu.nl
 
 organizations:
   - name: VU Theoretical Computer Science

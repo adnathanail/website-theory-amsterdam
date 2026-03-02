@@ -8,7 +8,7 @@ social:
     link: https://www.linkedin.com/in/mauricioverano/
   - icon: envelope
     icon_pack: fas
-    link: m.verano.merino@vu.nl
+    link: mailto:m.verano.merino@vu.nl
 
 organizations:
   - name: VU Theoretical Computer Science
