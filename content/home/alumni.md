@@ -42,7 +42,7 @@ design:
 | Name                                                                               | PhD Advisor(s)                               | Year of PhD | Current Affiliation |
 |------------------------------------------------------------------------------------|----------------------------------------------|-------------|---------------------|
 | [Anne Baanen](https://anne.mx/)                                                    | Jasmin Blanchette, Sander Dahmen             | 2024        | Mathlib Initiative |
-| [Roy Overbeek](/author/roy-overbeek/)                                              | Wan Fokkink, Jörg Endrullis                  | 2024        |  |
+| Roy Overbeek                                                                       | Wan Fokkink, Jörg Endrullis                  | 2024        |  |
 | [Harold Nieuwboer](https://han28.github.io)                                        | Michael Walter, Eric Opdam                   | 2024        | University of Copenhagen |
 | [Rene Allerstorfer](https://www.linkedin.com/in/rene-allerstorfer-b2171a86/)       | Harry Buhrman                                | 2024        | PsiQuantum |
 | [Philip Verduyn Lunel](https://www.linkedin.com/in/philip-verduyn-lunel-b81815a7/) | Harry Buhrman                                | 2024        | Sorbonne Université |
