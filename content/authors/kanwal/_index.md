@@ -2,12 +2,6 @@
 title: Samina Kanwal
 lastname: Kanwal
 role: PhD Student
-interests:
-  - model-driven engineering
-  - process engineering
-  - safety and security assurance
-  - machine learning
-  - formal methods
 social:
   - icon: envelope
     icon_pack: fas

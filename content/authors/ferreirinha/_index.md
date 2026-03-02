@@ -26,4 +26,7 @@ user_groups:
 highlight_name: false
 ---
 
-I work at the intersection of formal verification and security, with a particular interest in assembly language and type systems. My current project involves zero-knowledge proofs applied to binary code, enabling safety proofs for proprietary applications.
+
+Hello! I am a PhD Candidate at the VUSec group at Vrije Universitiet Amsterdam, currently advised by Klaus von Gleissenthall. My research mostly focuses on the intersection of formal verification and security, with a particular interest in assembly language and type-systems.
+
+I am currently working on a project that aims to bring zero-knowledge proofs to the world of binaries. It mostly involves providing a type-checking proof for typed binaries in zero-knowledge, by utilizing zkSNARK proofs. Our goal is to be able to provide safety proofs for proprietary applications, that are easy and fast to check by a end-user.
