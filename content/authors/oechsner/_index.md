@@ -5,7 +5,7 @@ role: Assistant Professor
 social:
   - icon: link
     icon_pack: fas
-    link: https://research.vu.nl/en/persons/sabine-oechsner/
+    link: https://soechsner.de
   - icon: envelope
     icon_pack: fas
     link: mailto:s.a.oechsner@vu.nl
