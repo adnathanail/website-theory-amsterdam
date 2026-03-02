@@ -9,7 +9,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: k.sojakova@vu.nl
-
+interests:
+  - programming languages
+  - security and privacy
+  - formal verification
+  - type theory
 organizations:
   - name: VU Theoretical Computer Science
     url: https://research.vu.nl/en/organisations/theoretical-computer-science-4/persons/
