@@ -41,6 +41,7 @@ design:
 ## PhD Students
 | Name                                                                               | PhD Advisor(s)                                  | Year of PhD | Current Affiliation |
 |------------------------------------------------------------------------------------|-------------------------------------------------|-------------|---------------------|
+| [Visa Nummelin](https://www.linkedin.com/in/visa-nummelin-bb3a87203/)              | Jasmin Blanchette                               | 2025        |  |
 | [Aloïs Rosset](https://alois.rosset.pro/)                                          | Joerg Endrullis, Helle Hvid Hansen, Wan Fokkink | 2025        | École Suisse d'Allemand |
 | [Anne Baanen](https://anne.mx/)                                                    | Jasmin Blanchette, Sander Dahmen                | 2024        | Mathlib Initiative |
 | Roy Overbeek                                                                       | Wan Fokkink, Jörg Endrullis                     | 2024        |  |
