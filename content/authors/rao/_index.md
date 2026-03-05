@@ -6,6 +6,8 @@ social:
   - icon: link
     icon_pack: fas
     link: https://www.linkedin.com/in/rajath-rao-08a253214/
+interests:
+  - graph algorithms
 organizations:
   - name: VU Theoretical Computer Science
     url: https://research.vu.nl/en/organisations/theoretical-computer-science-4/persons/

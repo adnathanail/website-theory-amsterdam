@@ -45,7 +45,7 @@ design:
 | [Aloïs Rosset](https://alois.rosset.pro/)                                          | Joerg Endrullis, Helle Hvid Hansen, Wan Fokkink | 2025        | École Suisse d'Allemand |
 | [Anne Baanen](https://anne.mx/)                                                    | Jasmin Blanchette, Sander Dahmen                | 2024        | Mathlib Initiative |
 | Roy Overbeek                                                                       | Wan Fokkink, Jörg Endrullis                     | 2024        |  |
-| [Estéban Gabory](https://estebangabory.github.io)                                  | Solon P. Pissis, Leen Stougie                | 2025        | University of Wrocław |
+| [Estéban Gabory](https://estebangabory.github.io)                                  | Solon P. Pissis, Leen Stougie                   | 2025        | University of Wrocław |
 | [Harold Nieuwboer](https://han28.github.io)                                        | Michael Walter, Eric Opdam                      | 2024        | University of Copenhagen |
 | [Rene Allerstorfer](https://www.linkedin.com/in/rene-allerstorfer-b2171a86/)       | Harry Buhrman                                   | 2024        | PsiQuantum |
 | [Philip Verduyn Lunel](https://www.linkedin.com/in/philip-verduyn-lunel-b81815a7/) | Harry Buhrman                                   | 2024        | Sorbonne Université |

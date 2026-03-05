@@ -9,6 +9,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:a.mehrabi@vu.nl
+interests:
+  - computational geometry
 organizations:
   - name: VU Theoretical Computer Science
     url: https://research.vu.nl/en/organisations/theoretical-computer-science-4/persons/

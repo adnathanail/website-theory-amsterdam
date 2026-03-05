@@ -9,7 +9,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:s.a.oechsner@vu.nl
-
+interests:
+  - secure multiparty computation
+  - cryptography
 organizations:
   - name: VU Theoretical Computer Science
     url: https://research.vu.nl/en/organisations/theoretical-computer-science-4/persons/
